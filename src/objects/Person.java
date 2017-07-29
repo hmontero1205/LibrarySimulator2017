@@ -7,4 +7,11 @@ public class Person {
 	private int libraryId;
 	private double fees;
 	
+	public Person()
+	{
+		
+	}
+	
+}
+	
 }
